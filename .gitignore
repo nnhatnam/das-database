@@ -24,3 +24,5 @@ das_database_server
 # temp file
 config/config.yaml
 mysql-data
+
+.idea
